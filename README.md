@@ -2,8 +2,10 @@
 
 - <p>APAIXONADO POR TECNOLOGIAS</p>
 - 📚 Estudante Análise e Desevolvimento de Sistemas (ADS) by Unifatecie
+- 🤘 Cursando Desevolvimento - JS Full Stack by (OneBitCode)
 - 🕹 Jogos Digitais em formação 50% by Unifacisa
 - ✏ Diretor de artes by GugArtec - @gugartec2016
+- 💡 Designer Gráfico (Especialista em Projetos e Logotipos)
 - ![image](https://user-images.githubusercontent.com/124308947/224799852-0c5ef84d-5a5d-4c7a-8f65-991661ec8d2a.png)
 APRENDENDO Python
 - ![image](https://user-images.githubusercontent.com/124308947/224799682-8b0950dd-3f49-4128-9028-9c8fe28bfbc5.png)
