@@ -11,9 +11,7 @@ APRENDENDO JavaScript
 
 <div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Guga&show_icons=true&theme=radical)
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guga&layout=compact&langs_count=7&theme=dracula"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Guga&show_icons=true&theme=radical) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guga&layout=compact&langs_count=6&theme=radical"/>
 
 
 ##
@@ -48,4 +46,19 @@ APRENDENDO JavaScript
   <a href="https://www.linkedin.com/in/augusto-vieira-45898822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
 
