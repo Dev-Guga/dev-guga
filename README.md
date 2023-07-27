@@ -13,8 +13,8 @@ APRENDENDO JavaScript
 
 <div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-guga&show_icons=true&theme=radical) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guga&layout=compact&langs_count=6&theme=radical"/>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-guga&show_icons=true&theme=radical) <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guga&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 ##
 
